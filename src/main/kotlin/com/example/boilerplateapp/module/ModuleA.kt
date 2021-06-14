@@ -1,5 +1,5 @@
 package com.example.boilerplateapp.module
 
-class ModuleA {
-	fun add(a: Int, b: Int) = a + b
+class ModuleA(private val a: Int, private val b: Int) {
+	fun add() = a + b
 }
