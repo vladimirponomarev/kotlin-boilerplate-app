@@ -17,6 +17,6 @@ $ mvn install
 
 To run the application:
 ```
-$ java -jar target/bank-1.0-SNAPSHOT-jar-with-dependencies.jar
+$ java -jar target/kotlin-boilerplate-app-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
